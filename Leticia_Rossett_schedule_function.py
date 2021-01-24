@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-Assignment 01- Python for Data Science
-Student: Leticia Rossett 
-Instructor: Dr. Zhiyun Li 
+Author: Leticia Rossett 
 Description: Design a function to help organize multiple meetings during a day 
 Date: 01/22/2021
 # In[ ]:
